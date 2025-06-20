@@ -53,3 +53,12 @@ Grand Total  : 78.2
 Task 4
 
 Generate a Data Structure to store the invoice products. When the program is executed, an output similar to above should generate
+
+
+
+![Screenshot (38)](https://github.com/user-attachments/assets/59223d67-902c-4f6c-b9dc-e300b697b9cc)
+
+
+
+
+
